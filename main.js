@@ -1,0 +1,1 @@
+document.getElementById("privacyFlyoutLabel").innerHTML="test";
